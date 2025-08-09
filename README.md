@@ -1,6 +1,9 @@
 
 # File Menu Program (Java)
 
+<img width="432" height="448" alt="Screenshot 2025-08-09 123133" src="https://github.com/user-attachments/assets/3dad6a56-76af-4bff-91b1-921bfd650ddf" />
+<img width="432" height="215" alt="Screenshot 2025-08-09 123151" src="https://github.com/user-attachments/assets/0b84013e-3be0-4934-a0a1-d364f1d2e951" />
+
 ## 📌 Overview
 This Java program demonstrates how to **write** and **read** text files using `FileWriter`, `FileReader`, and `BufferedReader`, controlled through a **switch statement** in a menu-driven format.
 
